@@ -1,0 +1,1 @@
+A simple Python command-line application that lets users manage contacts. This project is designed for beginners to practice working with lists, dictionaries, loops, and conditionals in Python. The program allows adding, viewing, searching, and deleting contacts directly from the terminal.
